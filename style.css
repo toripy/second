@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    border: 10px solid lightgreen;
+    margin: auto;
+    border-radius: 5px;
+    width: 25%;
+}
+img{
+    width: 50%;
+    padding: 10px;
+    border-radius: 50%;
+    margin: auto;
+    display: block;
+    
+}
+pre{
+    border: 50% solid greenyellow;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+div{
+    width: 50%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 5px solid lightgreen;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px 20px;
+}
+#uni{
+    color: peru;
+}
+.cen{
+    position: absolute;
+    left: 170px;
+}
